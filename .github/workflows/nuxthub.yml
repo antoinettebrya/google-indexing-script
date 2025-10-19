@@ -30,4 +30,4 @@ jobs:
       - name: Build & Deploy to NuxtHub
         uses: nuxt-hub/action@v2
         with:
-          project-key: google-indexing-4p8f
+          project-key: google-indexing-2d6o
